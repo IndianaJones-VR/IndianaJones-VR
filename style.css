@@ -13,12 +13,21 @@ header {
 }
 
 ul.img-list {
+<<<<<<< HEAD
  	list-style-type: none;
+=======
+>>>>>>> 6bd2276cf89f475c15457b0b9191da42791d141e
  	margin: 10px 0 0;
  	padding: 0;
  	text-align: center;
 }
+<<<<<<< HEAD
 
+=======
+ul{
+	list-style-type: none;
+}
+>>>>>>> 6bd2276cf89f475c15457b0b9191da42791d141e
 ul.img-list li {
  	display: inline-block;
  	height: 150px;
@@ -62,7 +71,10 @@ ul.img-list li:hover span.text-content {
 	text-align: center;
 	margin: 10px 0 0;
 }
+<<<<<<< HEAD
 
 .download {
    text-align: center;
 }
+=======
+>>>>>>> 6bd2276cf89f475c15457b0b9191da42791d141e
